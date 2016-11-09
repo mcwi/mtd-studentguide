@@ -7,6 +7,6 @@ Another test
 
 ## Team Members
 - Wolfgang Eßl (code, frontend development)
-- Meli Witzmann (concept, design)
+- Melanie Witzmann (concept, design)
 - Valentina Böhm (project management, content, concept)
 - Manuel Maier (concept, design)
